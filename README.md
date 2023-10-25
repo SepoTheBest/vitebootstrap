@@ -1,1 +1,2 @@
 # vitebootstrap
+laadisin giti üles
